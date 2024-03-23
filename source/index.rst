@@ -31,6 +31,7 @@ usage and requirements.
    documentation/Enemy/enemy
    documentation/Jobs/jobs
    documentation/GearSolver/gearSolverModule
+   documentation/SimulationRecord/simulationRecordModule
 
 
 

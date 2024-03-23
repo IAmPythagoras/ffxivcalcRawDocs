@@ -1,5 +1,5 @@
 page.addCritBuffList()
-====================
+======================
 
 Appends a direct hit buff entry to page.CritBuffList.
 
