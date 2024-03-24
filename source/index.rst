@@ -22,7 +22,7 @@ usage and requirements.
 
 .. toctree::
    :caption: Contents:
-   :maxdepth: 3
+   :maxdepth: 5
 
 
    getstarted
@@ -32,6 +32,7 @@ usage and requirements.
    documentation/Jobs/jobs
    documentation/GearSolver/gearSolverModule
    documentation/SimulationRecord/simulationRecordModule
+   documentation/Tester/testerModule
 
 
 

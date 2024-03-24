@@ -7,9 +7,9 @@ The record module implements the different class that implements the ability to 
 
 .. code-block:: python
 
-    from ffxivcalc.SimulationRecord.record import page, SimulationRecord.
+    from ffxivcalc.SimulationRecord.record import page, SimulationRecord
 
 .. toctree::
 
     page/pageClass
-    SimulationRec/SimulationRecordClass
+    SimulationRec/simulationRecordClass
