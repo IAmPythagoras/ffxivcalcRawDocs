@@ -17,7 +17,7 @@ version = release
 
 import sphinx_rtd_theme
 
-extensions = ['sphinx_rtd_theme']
+extensions = ['sphinx_rtd_theme', "sphinx_rtd_dark_mode"]
 
 templates_path = ['_templates']
 exclude_patterns = []

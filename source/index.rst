@@ -22,10 +22,9 @@ usage and requirements.
 
 .. toctree::
    :caption: Contents:
-   :maxdepth: 5
+   :maxdepth: 2
 
-
-   getstarted
+   GetStarted/getstarted
    documentation/FFLog/importFromFFLog
    documentation/Fight/fight
    documentation/Enemy/enemy
@@ -33,6 +32,9 @@ usage and requirements.
    documentation/GearSolver/gearSolverModule
    documentation/SimulationRecord/simulationRecordModule
    documentation/Tester/testerModule
+   documentation/Request/requestModule
+   documentation/helperCode/helperCodeModule
+
 
 
 
