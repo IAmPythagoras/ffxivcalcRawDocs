@@ -9,7 +9,7 @@
 project = 'ffxivcalc'
 copyright = '2022, IAmPythagoras'
 author = 'IAmPythagoras'
-release = '0.8.925'
+release = '0.8.930'
 version = release
 
 # -- General configuration ---------------------------------------------------
@@ -28,4 +28,6 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "sphinx_rtd_theme"
+html_favicon = 'icon.ico'
+html_logo = 'icon.ico'
 html_static_path = ['_static']
